@@ -42,7 +42,7 @@ export class Router {
 
             default:
                 document.body.style.backgroundImage = "url(../images/mountains-universe-1.png)"
-                break;
+                break
         }
     }
 
