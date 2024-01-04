@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPA Universe</title>
+
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header class="container">
+
+        <a href="/" onclick="route(event)">
+            <img src="./images/Vector.svg" alt="um desenho de galáxia">
+        </a>
+
+        <nav>
+            <ul>
+                <li><a class="links" href="/" onclick="route(event)">Home</a></li>
+                <li><a class="links" href="/universe" onclick="route(event)">O Universo</a></li>
+                <li><a class="links" href="/exploration" onclick="route(event)">Exploração</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="container" id="content"></section>
+
+    <script type="module" src="./js/main.js"></script>
+</body>
+
+</html>
