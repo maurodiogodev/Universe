@@ -112,7 +112,7 @@ a.more-info:hover {
   }
 
   .container {
-    text-align: center;
+    padding: 2rem 7.2rem;
   }
 
   li a {
