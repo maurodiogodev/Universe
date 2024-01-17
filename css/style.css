@@ -105,9 +105,9 @@ a.more-info:hover {
   line-height: 2.88rem;
 }
 
-@media (min-width: 520px) {
+@media (max-width: 520px) {
   header {
-    display: flex;
-    flex-flow: wrap;
+    display: grid;
+    grid-template-columns: 1 / 2;
   }
 }
