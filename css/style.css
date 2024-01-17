@@ -110,4 +110,8 @@ a.more-info:hover {
     display: grid;
     grid-template-columns: 1 / 2;
   }
+
+  li a {
+    font-size: 2rem;
+  }
 }
