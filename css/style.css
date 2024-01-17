@@ -104,3 +104,10 @@ a.more-info:hover {
   font-size: 1.8rem;
   line-height: 2.88rem;
 }
+
+@media (min-width: 520px) {
+  header {
+    display: flex;
+    flex-flow: wrap;
+  }
+}
