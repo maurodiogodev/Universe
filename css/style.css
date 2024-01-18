@@ -115,6 +115,10 @@ a.more-info:hover {
     padding: 2rem 7.2rem;
   }
 
+  main .home-heading {
+    text-align: center;
+  }
+
   li a {
     font-size: 2rem;
   }
