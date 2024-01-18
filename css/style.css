@@ -105,7 +105,7 @@ a.more-info:hover {
   line-height: 2.88rem;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 480px) {
   header {
     display: grid;
     grid-template-columns: 1 / 2;
