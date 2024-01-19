@@ -126,4 +126,8 @@ a.more-info:hover {
   li a {
     font-size: 2rem;
   }
+
+  header > a {
+    margin-top: 2.4rem;
+  }
 }
