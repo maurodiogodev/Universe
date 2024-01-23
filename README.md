@@ -1,5 +1,5 @@
 # Universe
- A single page aplication app
+ Aplicaçao de página única
 
 
 ### 💻 Tecnologias
