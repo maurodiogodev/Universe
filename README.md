@@ -4,7 +4,7 @@ A Single Page Application (SPA) web app about the universe, developed to practic
 
 ![Project Preview](./images/cover.png)
 
-### 📋 About the Project
+## 📋 About the Project
 
 Universe Explorer is an SPA that allows users to navigate between different pages about the universe and space exploration without reloading the entire page. The project implements front-end web development concepts, with specific focus on:
 
@@ -13,7 +13,7 @@ Universe Explorer is an SPA that allows users to navigate between different page
 - Dynamic content loading via Fetch API
 - Smooth transitions between pages
 
-### 🚀 Technologies Used
+## 🚀 Technologies Used
 
 - **HTML5** - Content structure
 - **CSS3** - Styling and responsive layout
