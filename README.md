@@ -6,7 +6,7 @@ A Single Page Application (SPA) web app about the universe, developed to practic
 
 ### 📋 About the Project
 
-Universe Explorer is an SPA that allows users to navigate between different pages about the universe and space exploration without reloading the entire page. The project was developed as part of my front-end web development learning, with specific focus on:
+Universe Explorer is an SPA that allows users to navigate between different pages about the universe and space exploration without reloading the entire page. The project implements front-end web development concepts, with specific focus on:
 
 - Implementing front-end routes without frameworks
 - Manipulating browser navigation history
