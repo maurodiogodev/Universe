@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 # 🌌 Universe Explorer
 
 A Single Page Application (SPA) web app about the universe, developed to practice fundamental front-end routing concepts using pure JavaScript.
-=======
-# Universe
- Aplicaçao de página única
- 
-- Manipulating browser navigation history
-- Dynamic content loading via Fetch API
-- Smooth transitions between pages
->>>>>>> 57d1007e1ccba074a7273249c7fa0cb20faece6a
 
 ## 📋 About the Project
 
