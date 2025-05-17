@@ -102,3 +102,7 @@ During the development of this project, I learned and applied:
 - Navigation state management using JavaScript
 - CSS techniques for smooth page transitions
 - Code organization in modules for better maintenance
+
+Design UI/UX by [Rocketseat](https://www.rocketseat.com.br/)
+
+<div align="center"> <p>Developed with ❤️ as part of my web development learning journey.</p> <p>Feel free to contribute or get in touch!</p> </div>
