@@ -1,6 +1,9 @@
 # Universe
  Aplicaçao de página única
-
+ 
+- Manipulating browser navigation history
+- Dynamic content loading via Fetch API
+- Smooth transitions between pages
 
 ### 💻 Tecnologias
 <p align="left">
